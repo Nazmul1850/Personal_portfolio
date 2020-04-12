@@ -1,0 +1,17 @@
+
+
+body {
+    font-family: 'Pacifico', cursive;
+}
+#blogtitle {
+    font-size: 6rem;
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 4rem;
+    }
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+}
